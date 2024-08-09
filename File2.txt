@@ -1,4 +1,8 @@
 File 2 started.
 
+Updated from Repo B.
+
+File 2 started.
+
 Modified in Repo A.
 
